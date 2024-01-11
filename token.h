@@ -1,6 +1,6 @@
 #ifndef TOKEN_H
 #define TOKEN_H
 
-#define API_TOKEN "cfd734e0f9c13d81ce6429cc78c995f4"
+#define API_TOKEN "mention-your-token-here"
 
 #endif // TOKEN_H
